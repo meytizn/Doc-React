@@ -1,0 +1,27 @@
+
+
+
+.text{
+  color:black;
+  text-align: center;
+}
+
+.success{
+  color:green;
+  text-align: center;
+}
+
+.warning{
+  color:red;
+  text-align: center;
+}
+
+
+.titlenav{
+  width:100%;
+  background-color: yellow ;
+  margin-top: 0px;
+  height: 60px;
+  padding-top: 7px;
+  /* style={{ width: "100%", backgroundColor: "yellow", marginTop: "0px", height:"80px",paddingTop:"10px" ,}} */
+}
